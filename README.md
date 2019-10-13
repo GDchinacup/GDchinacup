@@ -1,0 +1,2 @@
+# GDchinacup
+repository test
